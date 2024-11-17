@@ -1,4 +1,6 @@
-# Payload E-Commerce Template
+# Click -> [Figma (Screenhhots)](https://www.figma.com/design/FYACu2ClRr8o8yc90ibpNl/E-commerce-Tech-Haven-Project?t=gFIH15J8bYJfrYna-1)
+
+# Payload E-Commerce Template (Tech Haven)
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
 
